@@ -16,7 +16,7 @@
         }
     },
     "require": {
-        "php": "^7.0",
+        "php": "^7.1",
         "google/cloud-storage": "^1.10",
         "shopsys/framework": "dev-master",
         "superbalist/flysystem-google-storage": "^7.1",
